@@ -1,6 +1,6 @@
-# World Time App
+# GlobeClock
 
-World Time App is a mobile application built using Flutter that allows users to view the current time and date in different cities around the world. By selecting a specific city from the provided list, users can instantly see the corresponding local time, helping them stay informed about different time zones.
+GlobeClock is a mobile application built using Flutter that allows users to view the current time and date in different cities around the world. By selecting a specific city from the provided list, users can instantly see the corresponding local time, helping them stay informed about different time zones.
 
 ## Features
 
@@ -11,7 +11,7 @@ World Time App is a mobile application built using Flutter that allows users to 
 
 ## Installation
 
-To use the World Time App, follow these steps:
+To use the GlobeClock App, follow these steps:
 
 1. Ensure you have Flutter installed on your machine. For installation instructions, refer to the [Flutter documentation](https://flutter.dev/docs/get-started/install).
 
@@ -34,5 +34,5 @@ To use the World Time App, follow these steps:
 
 ## API
 
-The World Time App utilizes an API to fetch the current time and date for different cities. The API used in this project does not require an API key and provides the necessary data.
+The GlobeClock App utilizes an API to fetch the current time and date for different cities. The API used in this project does not require an API key and provides the necessary data.
 
